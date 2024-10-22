@@ -6,7 +6,8 @@ A responsive and dynamic news website built using HTML, CSS, and JavaScript. The
 # Features
 - Easy-to-use navigation bar to quickly access different sections of the website.
 - News articles are dynamically updated using JavaScript, fetching live data from APIs.
-- Users can search for specific news articles easily. Clean and attractive design with intuitive user interaction.
+- Users can search for specific news articles easily.
+- Clean and attractive design with intuitive user interaction.
   
 # Future Enhancements
 - Implementing features for user comments and interaction with articles
